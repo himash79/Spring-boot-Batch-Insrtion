@@ -15,7 +15,6 @@ Build restful webservices and insert wide records to database at minimum time.
 
 02) Create MYSQL Database
 
-		Run attached SQL script.
 
 03) Clean and build the project using maven
 
